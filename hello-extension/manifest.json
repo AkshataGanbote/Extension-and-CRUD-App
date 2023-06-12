@@ -1,0 +1,10 @@
+{
+  "name": "Hello Extension",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Extension which displays a 'Hello' pop-up box.",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": []
+}
